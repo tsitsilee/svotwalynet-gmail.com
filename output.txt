@@ -1,0 +1,180 @@
+lsvotwa
+../data/textfile1.txt
+My heart is in the work
+My heart is in the WIRK
+M!!y he@art? is in the W@RK
+Maximum number of probes: 4
+Average number of probes: 2.5
+heart         3 (1)
+in            3 (3)
+is            3 (2)
+my            3 (0)
+the           3 (1)
+work          1 (2)
+--------------------
+../data/textfile2.txt
+heart in is My the work
+Maximum number of probes: 6
+Average number of probes: 3.5
+heart         1 (0)
+in            1 (1)
+is            1 (2)
+my            1 (3)
+the           1 (4)
+work          1 (5)
+--------------------
+../data/textfile3.txt
+I am learning how to solve PROBLEMS
+I am DOING my ASSINGMENT
+This is a test for my code
+how WAS work
+work WAS fine
+Maximum number of probes: 6
+Average number of probes: 3.7
+a             1 (2)
+am            2 (1)
+code          1 (4)
+fine          1 (5)
+for           1 (3)
+how           2 (2)
+i             2 (0)
+is            1 (2)
+learning      1 (1)
+my            2 (4)
+solve         1 (3)
+test          1 (5)
+this          1 (4)
+to            1 (2)
+work          2 (3)
+--------------------
+../data/textfile4.txt
+he EWTN to TWN
+she is AITNEG
+we IVKE together
+OHW is DAT GRL
+Maximum number of probes: 4
+Average number of probes: 2.8
+he            1 (0)
+is            2 (3)
+she           1 (2)
+to            1 (1)
+together      1 (3)
+we            1 (2)
+--------------------
+../data/textfile5.txt
+if h@e KN!W!S TH!S
+TH&N he is CL..ER
+WH@T if !T M(DE s{en!se Maximum number of probes: 3
+Average number of probes: 2.0
+he            2 (1)
+if            2 (0)
+is            1 (1)
+sense         1 (2)
+--------------------
+../data/textfile6.txt
+what time do we AET
+wh@o WAS D@
+where DO you LIVE Maximum number of probes: 4
+Average number of probes: 2.6
+do            2 (2)
+live          1 (3)
+time          1 (1)
+we            1 (2)
+what          1 (0)
+where         1 (2)
+who           1 (1)
+you           1 (2)
+--------------------
+../data/textfile7.txt
+WHICH LESSON'S ARE YOU TAKING
+WOULD YOU RATHER HAVE THIS\ THAT
+WHAT HAPPENS IF THERE IS A FULLSTOP.
+but why Maximum number of probes: 6
+Average number of probes: 3.7
+a             1 (3)
+but           1 (4)
+have          1 (2)
+if            1 (3)
+is            1 (4)
+lesson        1 (1)
+rather        1 (2)
+that          1 (4)
+there         1 (5)
+this          1 (3)
+what          1 (4)
+which         1 (0)
+why           1 (3)
+would         1 (2)
+you           2 (1)
+--------------------
+../data/textfile8.txt
+Maximum number of probes: 0
+Average number of probes: 0.0
+--------------------
+../data/textfile9.txt
+when I WAS young
+I us@ed to LIVE W!TH my PARENTS
+then I WENT to SCHOOL I ME@N BOARDING SC%%L
+where life WAS terrible and hard I MEAN THERE WAS NO TUCKSHOP
+no form, of ENTERTAIN'MENT everything W#S illegal i mean everything
+even CHATT!NG with PEOPKE WAS CONSIDERED MKING noise.
+but we DID SURVCE through SPORTS!!!! fun TIMES BU we WE%RE not ALLOWED to talk even in the CANTEEN
+I mean where DID they HTNK we WHR FOING to make FRIENDS from but ANYWAYS we MADE it
+we SURVVED we ARE now LEGENDS OOOH i FORGOR to tell you that even BRAIFING our hair WAS not ALLOWERD
+they MADE even GIRLS cut their HAIR'
+THINKIN ABUT it it MADE me REALISE
+I have FACED a lot ND CAN now survive THIS !!! THI^^NG Maximum number of probes: 13
+Average number of probes: 7.4
+a             1 (3)
+and           1 (2)
+but           2 (7)
+can           1 (9)
+cut           1 (8)
+even          4 (6)
+everything    2 (5)
+form          1 (4)
+from          1 (6)
+fun           1 (5)
+hair          1 (6)
+hard          1 (3)
+have          1 (4)
+i             9 (1)
+illegal       1 (6)
+in            1 (7)
+it            3 (8)
+life          1 (5)
+live          1 (4)
+lot           1 (8)
+make          1 (7)
+me            1 (8)
+mean          3 (6)
+my            1 (5)
+no            2 (8)
+noise         1 (10)
+not           2 (11)
+now           2 (12)
+of            1 (9)
+our           1 (10)
+school        1 (7)
+survive       1 (10)
+talk          1 (9)
+tell          1 (10)
+terrible      1 (8)
+that          1 (10)
+the           1 (9)
+their         1 (10)
+then          1 (6)
+there         1 (7)
+they          2 (9)
+thing         1 (11)
+this          1 (10)
+through       1 (8)
+to            5 (3)
+used          1 (2)
+we            6 (3)
+when          1 (0)
+where         2 (2)
+with          1 (3)
+you           1 (4)
+young         1 (1)
+--------------------
